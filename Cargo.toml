@@ -119,7 +119,7 @@ moka = { version = "0.12", features = ["future"] }
 
 # Configuration
 config = "0.15"
-toml = "0.9"
+toml = "1.1"
 serde_yaml = "0.9"
 notify = "8.2"
 validator = { version = "0.20", features = ["derive"] }
