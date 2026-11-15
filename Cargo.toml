@@ -79,7 +79,7 @@ base64 = "0.22.1"
 ahash = "0.8"
 
 # Cryptography (for JWT testing and quantum-safe signing)
-hmac = "0.12"
+hmac = "0.13"
 sha2 = "0.10"
 blake3 = "1.8"
 
