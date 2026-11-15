@@ -97,7 +97,7 @@ scraper = "0.26"
 html-escape = "0.2"
 
 # Text similarity for baseline comparison
-similar = "2.7"
+similar = "3.2"
 
 # WebSocket client for exploitation testing
 tokio-tungstenite = { version = "0.29", features = ["native-tls"] }
